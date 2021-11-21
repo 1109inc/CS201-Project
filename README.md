@@ -3,6 +3,8 @@ B+Tree implementation
 
 This repository contains implementations of B-Tree and B+Tree in .c files.
 
+The user should run these codes in his/her compiler.
+
 Instructions for B-Tree-
 
 In the main function : At first our
