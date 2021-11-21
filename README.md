@@ -25,3 +25,5 @@ distinct.
 Instructions for B+Tree-
 
 In B+Tree a guide is printed for all the operations expected from the user. Default value of order of B+Tree is 4, minimum is 3 and maximum user can enter is 100.
+
+After every operation, the code will display the whole tree by default and perform the operation also.
